@@ -35,7 +35,7 @@ Docs - [Check our documentation](https://css.designcrystals.online/tailwindcss)
 
 
 [dec-web]: htttps://www.designcrystals.online	"Design Crystals"
-[dec-tw]: https://tailwindcss.designcrystals.online	"Design Crystals TailwindCSS"
+[dec-tw]: https://css.designcrystals.online/tailwindcss	"Design Crystals TailwindCSS"
 [ dec-tw-repo ]: https://github.com/Design-Crystals/tailwind-css "Design Crystals TailwindCSS GitHub repository"
 [tw-web]: https://www.tailwindcss.com	"TailwindCSS"
 
