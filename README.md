@@ -18,6 +18,18 @@ Docs - [Check our documentation](dec-tw)
 
 
 
+### Contributing
+
+For contribution, please feel free to drop a message at [DEC support][dec-support] (support@designcrystals.online)
+
+
+
+### Support
+
+Please reach us via email at [DEC support][dec-support] (support@designcrystals.online)
+
+
+
 ### Documentation
 
 [Check our documentation](dec-tw)
@@ -41,4 +53,6 @@ Docs - [Check our documentation](dec-tw)
 [ dec-tw-repo ]: https://github.com/Design-Crystals/tailwind-css "Design Crystals TailwindCSS GitHub repository"
 [dec-tw-repo-release]: https://github.com/Design-Crystals/tailwind-css/releases "Design Crystals TailwindCSS GitHub repository releases page"
 [tw-web]: https://www.tailwindcss.com	"TailwindCSS"
+
+[dec-support]: mailto:support.designcrystals.online "DEC Support"
 
