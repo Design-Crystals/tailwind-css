@@ -2,7 +2,7 @@
 
 Made with love by [Design Crystals][dec-web]
 
-Docs - [Check our documentation](https://css.designcrystals.online/tailwindcss)
+Docs - [Check our documentation](dec-tw)
 
 ### Installation
 
@@ -18,7 +18,7 @@ Docs - [Check our documentation](https://css.designcrystals.online/tailwindcss)
 
 ### Documentation
 
-[Check our documentation](https://css.designcrystals.online/tailwindcss)
+[Check our documentation](dec-tw)
 
 
 
