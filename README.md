@@ -1,15 +1,41 @@
-Documentation
-This documentation explains the meaning of the abbrevations in this file.
-Every other term or word not explained in this documentation is used with original definition (HTML/CSS).
-e.g. h3 = heading 3 (as it is in HTML/CSS)
+# DEC TailwindCSS
 
-General
+Made with love by [Design Crystals][dec-web]
 
-Position
-tl = top left
+Docs - [Check our documentation](https://css.designcrystals.online/tailwindcss)
 
-Utilities
-ic = icon
+### Installation
 
-FORM
+##### General
+
+1. Install [TailwindCSS][tw-web]
+2. Clone [DEC TailwindCSS][dec-tw-repo] repository
+3. Copy files
+4. Paste in your stylesheet
+5. Reference stylesheet in your code
+
+
+
+### Documentation
+
+[Check our documentation](https://css.designcrystals.online/tailwindcss)
+
+
+
+### References
+
+[Design Crystals][dec-web]
+
+[Design Crystals TailwindCSS][dec-tw]
+
+[TailwindCSS][tw-web]
+
+
+
+
+
+[dec-web]: htttps://www.designcrystals.online	"Design Crystals"
+[dec-tw]: https://css.designcrystals.online/tailwindcss	"Design Crystals TailwindCSS"
+[ dec-tw-repo ]: https://github.com/Design-Crystals/tailwind-css "Design Crystals TailwindCSS GitHub repository"
+[tw-web]: https://www.tailwindcss.com	"TailwindCSS"
 
